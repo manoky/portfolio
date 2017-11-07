@@ -1,0 +1,114 @@
+{
+	"name": "Emmanuel Opoku",
+	"email": "emmopk11@outlook.com",
+	"phone": "123-546-7890",
+	"image": "assets/images/me.png",
+	"address":"Charlottenburg, Berlin",
+	"website": "getmouth.com",
+	"twitter": "@holycomedy",
+	"twitterURL": "https://twitter.com/abhaytalreja",
+	"intro":"Berlin based web developer, driven by challenge to develop web applications that are simple, user-friendly and responsive from development to production.My background in management enables me to understand users perceived value and satisfaction, to develop web apps that are engaging, delightful and meets users expectations.",
+	"intro2":"I have worked as an administrative assistant,a teacher and a trade negotiator. New experiences and challenges are my thing.If you have a cool class or an opportunity please get in touch!",
+	"experiences" : [
+		{
+			"role" : "International Trade Negotiator",
+			"place":"Yiwu, China",
+			"period": "2014 - Present",
+			"company": "Yiwu Market",
+			"details": "Arranging trade between buyers from Ghana and sellers from China(Yiwu), Negotiating on product prices, quality check of products before shipping to buyers, communicating defective products to sellers and Promoting products to prospective clients"
+		},
+		{
+			"role" : "Teaching professional/ Branch Supervisor",
+			"place":"Hangzhou, China",
+			"period": "2014 - 2015",
+			"company": "Jordan English ",
+			"details": "Teaching Kids Basic English, Developing Teaching syllabus, Developing Teacher Training Programs, Supervising Junior Teachers, Communicating reports to senior management."
+		},
+    {
+			"role" : "Administrative Assistant",
+			"place":"Tepa, Ghana",
+			"period": "2011 - 2013",
+      "company": "Tepa District Assembly",
+			"details": "maintaining filing system, performing data entry and scan documents,writing reports and modifying documents including drafts, memos and emails, schedule and coordinate meetings, appointments arrangements for Managers, maintaining of office supplies."
+		}
+	],
+	"portfolio": [
+		{
+			"class":"mix design",
+			"small": "img/portfolio/small/02.png",
+			"large": "img/portfolio/large/02.png"
+		},
+		{
+			"class":"mix rails",
+			"small": "img/portfolio/small/bikeapp.png",
+			"large": "http://bestberlinbikes.herokuapp.com/"
+		},
+		{
+			"class":"mix branding",
+			"small": "img/portfolio/small/05.png",
+			"large": "img/portfolio/large/05.png"
+		},
+		{
+			"class":"mix photography",
+			"small": "img/portfolio/small/07.png",
+			"large": "img/portfolio/large/07.png"
+		},
+		{
+			"class":"mix design",
+			"small": "img/portfolio/small/12.png",
+			"large": "img/portfolio/large/12.png"
+		}
+	],
+	"skills": [
+		{
+			"tool": "Ruby",
+			"percent": "80"
+		},
+		{
+			"tool": "Ruby on Rails",
+			"percent": "75"
+		},
+		{
+			"tool": "Javascript & jQuery",
+			"percent": "70"
+		},
+		{
+			"tool": "React",
+			"percent": "50"
+		},
+		{
+			"tool": "HTML5 & CSS3",
+			"percent": "90"
+		},
+		{
+			"tool": "Illustrator & Photoshop",
+			"percent": "60"
+		}
+	],
+	"education": [
+		{
+			"degree": "Full-Stack Web Development",
+			"university": "Careerfoundry.com",
+			"period": "2017"
+		},
+		{
+			"degree": "Master of Management Science in Business Administration",
+			"university": "Zhejiang Gongshang University",
+			"period": "2015"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"French",
+			"details": "Professional"
+		},
+		{
+			"name":"Spanish",
+			"details": "Professional"
+		}
+	]
+}
