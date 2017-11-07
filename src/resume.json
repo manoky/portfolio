@@ -37,13 +37,13 @@
 		{
 			"class":"mix rails",
 			"small": "img/portfolio/small/bikeapp.png",
-			"large": "img/portfolio/large/bike1.png"
+			"large": "https://bestberlinbikes.herokuapp.com/"
 		},
 
 		{
 			"class":"mix react",
 			"small": "img/portfolio/small/react1.png",
-			"large": "img/portfolio/large/react1.png"
+			"large": "https://count-downapp.herokuapp.com"
 		}
 	],
 	"skills": [
