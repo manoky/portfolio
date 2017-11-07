@@ -33,30 +33,17 @@
 		}
 	],
 	"portfolio": [
-		{
-			"class":"mix design",
-			"small": "img/portfolio/small/02.png",
-			"large": "img/portfolio/large/02.png"
-		},
+
 		{
 			"class":"mix rails",
 			"small": "img/portfolio/small/bikeapp.png",
-			"large": "http://bestberlinbikes.herokuapp.com/"
+			"large": "img/portfolio/large/bike1.png"
 		},
+
 		{
-			"class":"mix branding",
-			"small": "img/portfolio/small/05.png",
-			"large": "img/portfolio/large/05.png"
-		},
-		{
-			"class":"mix photography",
-			"small": "img/portfolio/small/07.png",
-			"large": "img/portfolio/large/07.png"
-		},
-		{
-			"class":"mix design",
-			"small": "img/portfolio/small/12.png",
-			"large": "img/portfolio/large/12.png"
+			"class":"mix react",
+			"small": "img/portfolio/small/react1.png",
+			"large": "img/portfolio/large/react1.png"
 		}
 	],
 	"skills": [

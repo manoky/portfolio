@@ -91,7 +91,7 @@ $(document).ready(function() {
 
 
     /* VEGAS Home Slider */
-	
+
 	    $('#page-welcome').vegas({
         slides: [
             { src: 'img/slider/01.jpg' },
