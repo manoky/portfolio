@@ -5,29 +5,29 @@
 	"image": "assets/images/me.png",
 	"address":"Charlottenburg, Berlin",
 	"website": "getmouth.com",
-	"intro":"Berlin based web developer, driven by challenge to develop web applications that are simple, user-friendly and responsive from development to production.My background in management enables me to understand users perceived value and satisfaction, to develop web apps that are engaging, delightful and meets users expectations.",
-	"intro2":"I have worked as an administrative assistant,a teacher and a trade negotiator. New experiences and challenges are my thing.If you have a cool class or an opportunity please get in touch!",
+	"intro":"Berlin based web developer, driven by challenge to develop web applications that are simple, user-friendly and responsive from development to production. My background in management enables me to understand users' perceived value and satisfaction, to develop web apps that are engaging, delightful and meets users' expectations.",
+	"intro2":"I have worked as an administrative assistant,a teacher and a trade negotiator. New experiences and challenges are my thing. If you have a cool project or an open position please get in touch!",
 	"experiences" : [
 		{
 			"role" : "International Trade Negotiator",
 			"place":"Yiwu, China",
-			"period": "2014 - Present",
+			"period": "2014 - 2016",
 			"company": "Yiwu Market",
-			"details": "Arranging trade between buyers from Ghana and sellers from China(Yiwu), Negotiating on product prices, quality check of products before shipping to buyers, communicating defective products to sellers and Promoting products to prospective clients"
+			"details": "Arranged trade between buyers from Ghana and sellers from China (Yiwu), negotiated on product prices, quality check of products prior to shipment, reported defective products to sellers. Promoted products to prospective buyers"
 		},
 		{
 			"role" : "Teaching professional/ Branch Supervisor",
 			"place":"Hangzhou, China",
 			"period": "2014 - 2015",
 			"company": "Jordan English ",
-			"details": "Teaching Kids Basic English, Developing Teaching syllabus, Developing Teacher Training Programs, Supervising Junior Teachers, Communicating reports to senior management."
+			"details": "Taught students basic English, developed several teaching methodologies, introduced effective teaching methods to junior teachers, supervised them and communicated results to senior management."
 		},
     {
 			"role" : "Administrative Assistant",
 			"place":"Tepa, Ghana",
 			"period": "2011 - 2013",
       "company": "Tepa District Assembly",
-			"details": "maintaining filing system, performing data entry and scan documents,writing reports and modifying documents including drafts, memos and emails, schedule and coordinate meetings, appointments arrangements for Managers, maintaining of office supplies."
+			"details": "Maintained file system, performed data entry and scan documents,wrote reports and modified documents including drafts, memos and emails, scheduled and coordinated meetings, appointments arrangements for senior staff and maintained of office supplies."
 		}
 	],
 	"portfolio": [
@@ -47,27 +47,27 @@
 	"skills": [
 		{
 			"tool": "Ruby",
-			"percent": "70"
+			"percent": "100"
 		},
 		{
 			"tool": "Ruby on Rails",
-			"percent": "75"
+			"percent": "100"
 		},
 		{
 			"tool": "Javascript & jQuery",
-			"percent": "70"
+			"percent": "100"
 		},
 		{
 			"tool": "React",
-			"percent": "50"
+			"percent": "100"
 		},
 		{
 			"tool": "HTML5 & CSS3",
-			"percent": "80"
+			"percent": "100"
 		},
 		{
 			"tool": "Illustrator & Photoshop",
-			"percent": "60"
+			"percent": "100"
 		}
 	],
 	"education": [
@@ -80,20 +80,6 @@
 			"degree": "Master of Management Science in Business Administration",
 			"university": "Zhejiang Gongshang University",
 			"period": "2015"
-		}
-	],
-	"languages": [
-		{
-			"name":"English",
-			"details": "Native"
-		},
-		{
-			"name":"French",
-			"details": "Professional"
-		},
-		{
-			"name":"Spanish",
-			"details": "Professional"
 		}
 	]
 }
