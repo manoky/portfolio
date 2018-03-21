@@ -26,7 +26,7 @@
 			"role" : "Administrative Assistant",
 			"place":"Tepa, Ghana",
 			"period": "2011 - 2013",
-      "company": "Tepa District Assembly",
+      		"company": "Tepa District Assembly",
 			"details": "Maintained file system, performed data entry and scan documents,wrote reports and modified documents including drafts, memos and emails. Scheduled and coordinated meetings, appointments arrangements for senior staff and maintained of office supplies"
 		}
 	],
@@ -35,13 +35,23 @@
 		{
 			"class":"mix rails",
 			"small": "img/portfolio/small/bikeapp.png",
-			"large": "https://bestberlinbikes.herokuapp.com/"
+			"large": "https://thebikers.herokuapp.com/"
 		},
 
 		{
 			"class":"mix react",
 			"small": "img/portfolio/small/react1.png",
 			"large": "https://count-downapp.herokuapp.com"
+		},
+		{
+			"class":"mix rails",
+			"small": "img/portfolio/small/pin.png",
+			"large": "https://pintapp.herokuapp.com"
+		},
+		{
+			"class":"mix react",
+			"small": "img/portfolio/small/book.png",
+			"large": "https://book-mania.herokuapp.com"
 		}
 	],
 	"skills": [

@@ -109,6 +109,13 @@ h1, h2, h3, h4, h5, h6 {
     padding: 75px 0;
     background: #f7f7f7;
     text-align: center;
+    background: url(../img/vadim-sherbakov-on-unsplash.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+}
+#page-skills h2{
+    color: #fff;
 }
 #page-education {
     padding: 75px 0;
@@ -117,6 +124,9 @@ h1, h2, h3, h4, h5, h6 {
 #page-experience {
     padding: 75px 0;
     background: #f7f7f7;
+    background: url(../img/etienne-desclides-on-unsplash.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #page-portfolio {
     padding: 75px 0;

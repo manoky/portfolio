@@ -61,7 +61,7 @@ class App extends Component {
               </header>
               <div className="row">
                   <div className="col-md-3">
-                      <div className="profile"><img src="img/profile.png" alt="profile" />
+                      <div className="profile"><img src="img/profile.png" alt="myself sitting" />
                       </div>
                   </div>
                   <div className="col-md-9">
