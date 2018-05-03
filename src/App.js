@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import resume from './resume.json'
 import Experience from './Experience'
 import Education from './Education'
