@@ -52,6 +52,11 @@
 			"class":"mix react",
 			"small": "img/portfolio/small/book.png",
 			"large": "https://book-mania.herokuapp.com"
+		},
+		{
+			"class":"mix react",
+			"small": "img/portfolio/small/recipes.png",
+			"large": "https://recipes-corner.herokuapp.com"
 		}
 	],
 	"skills": [

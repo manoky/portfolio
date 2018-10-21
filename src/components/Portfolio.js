@@ -14,13 +14,14 @@ const Portfolio = ({resume}) => (
 
         <div id="grid-controls-wrapper">
           <ul className="nav nav-pills center-pills grid-controls">
-            <li className="active filter"><a href="javascript:void(0)" data-filter="*">All</a>
+            <li className="active filter">
+              <a href="javascript:void(0)" data-filter="*">All</a>
             </li>
-            <li className="filter"><a href="javascript:void(0)" data-filter=".design">Design</a>
+            <li className="filter">
+              <a href="javascript:void(0)" data-filter=".react">ReactJS</a>
             </li>
-            <li className="filter"><a href="javascript:void(0)" data-filter=".react">ReactJS</a>
-            </li>
-            <li className="filter"><a href="javascript:void(0)" data-filter=".rails">Ruby On Rails</a>
+            <li className="filter">
+              <a href="javascript:void(0)" data-filter=".rails">Ruby On Rails</a>
             </li>
           </ul>
         </div>
