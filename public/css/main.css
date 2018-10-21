@@ -153,6 +153,19 @@ h1, h2, h3, h4, h5, h6 {
 #page-contact .contact-info p {
     font-size: 1.2em;
 }
+
+#page-contact .main-contact {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+
+#page-contact #contacts {
+    align-self: center;
+    width: 60%;
+}
+
 /* ==========================================================================
    Portfolio   
    ========================================================================== */
