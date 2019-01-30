@@ -37,27 +37,27 @@
 	"skills": [
 		{
 			"tool": "Ruby",
-			"percent": "100"
+			"percent": "50"
 		},
 		{
 			"tool": "Ruby on Rails",
-			"percent": "100"
+			"percent": "65"
 		},
 		{
 			"tool": "Javascript & jQuery",
-			"percent": "100"
+			"percent": "60"
 		},
 		{
-			"tool": "React",
-			"percent": "100"
+			"tool": "ReactJS",
+			"percent": "60"
 		},
 		{
 			"tool": "HTML5 & CSS3",
-			"percent": "100"
+			"percent": "80"
 		},
 		{
-			"tool": "Illustrator & Photoshop",
-			"percent": "100"
+			"tool": "NodeJS & ExpressJS",
+			"percent": "50"
 		}
 	]
 }
