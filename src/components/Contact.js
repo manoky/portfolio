@@ -13,8 +13,8 @@ const Contact = ({resume}) => (
       <div className="row">
         <div className="main-contact">
           <div id="contacts">
-            <h3>Get in Touch</h3>
-            <p><i className="fa fa-envelope-o"></i> {resume.email}</p>
+            
+            <p><a href="mailto:emmopk11@outlook.com">Click Here</a> </p>
             <ContactForm />
           </div>
         </div>

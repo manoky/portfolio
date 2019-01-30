@@ -1,35 +1,10 @@
 {
 	"name": "Emmanuel Opoku",
 	"email": "emmopk11@outlook.com",
-	"phone": "123-546-7890",
 	"image": "assets/images/me.png",
-	"address":"Charlottenburg, Berlin",
-	"website": "getmouth.com",
-	"intro":"Berlin based web developer, driven by the challenge to develop web applications that are simple, user-friendly and responsive from development to production. My background in management enables me to understand users' perceived value and satisfaction, to develop web apps that are engaging, delightful and meet users' expectations.",
-	"intro2":"I have worked as an administrative assistant,a teacher and a trade negotiator. New experiences and challenges are my thing. If you have a cool project or an open position please get in touch!",
-	"experiences" : [
-		{
-			"role" : "International Trade Negotiator",
-			"place":"Yiwu, China",
-			"period": "2014 - 2016",
-			"company": "Yiwu Market",
-			"details": "Arranged trade transactions between buyers from Ghana and sellers from China (Yiwu), negotiated on product prices, quality check of products prior to shipment, reported defective products to sellers. Promoted products to prospective buyers"
-		},
-		{
-			"role" : "Teaching Professional/ Branch Supervisor",
-			"place":"Hangzhou, China",
-			"period": "2014 - 2015",
-			"company": "Jordan English ",
-			"details": "Taught students basic English, developed several teaching methodologies. Introduction of effective teaching methods to junior teachers, supervised them and communicated results to senior management"
-		},
-    {
-			"role" : "Administrative Assistant",
-			"place":"Tepa, Ghana",
-			"period": "2011 - 2013",
-      		"company": "Tepa District Assembly",
-			"details": "Maintained file system, performed data entry and scan documents,wrote reports and modified documents including drafts, memos and emails. Scheduled and coordinated meetings, appointments arrangements for senior staff and maintained of office supplies"
-		}
-	],
+	"intro":"I’m Emmanuel, a Berlin based web developer, with the passion for elegant and innovative user-experience deseign. My background in management enables me to understand users’ perceived value and satisfaction, thus, developing websites that are simple, aestheticallypleasing and easy to use ulitizing clean and concise code. I’m looking to add my current skill set and positive attitude to your web development team, while learning with enthusiasm.",
+	
+	
 	"portfolio": [
 
 		{
@@ -83,18 +58,6 @@
 		{
 			"tool": "Illustrator & Photoshop",
 			"percent": "100"
-		}
-	],
-	"education": [
-		{
-			"degree": "Full-Stack Web Development",
-			"university": "CareerFoundry",
-			"period": "2017"
-		},
-		{
-			"degree": "Master of Management Science in Business Administration",
-			"university": "Zhejiang Gongshang University",
-			"period": "2015"
 		}
 	]
 }

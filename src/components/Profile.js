@@ -15,7 +15,6 @@ const Profile = ({resume}) => (
         </div>
         <div className="col-md-9">
           <p className="first">{resume.intro}</p>
-          <p>{resume.intro2}</p>
         </div>
       </div>
     </div>
